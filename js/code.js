@@ -20,3 +20,20 @@
 
 // let names = ['Messi', 'Suarez', 'Neymar']
 
+// let salary = 100;
+// document.write(salary);
+// salary = 50000
+// document.write(`<br>new salary : R${salary}`);
+
+let person = {
+    name: 'Kevin'
+    surname:'Eleven'
+    age: 11
+};
+console.log(person);
+
+function greet() {
+    console.log('Bye, World');
+}
+
+greet()
